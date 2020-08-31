@@ -1,0 +1,40 @@
+pagina inicial - listagem de todos os produtos
+pagina de descrição - descrição do produtos
+pagina da sacola - lista com todos os produtos e quantidades de cada um na sacola
+
+- API para consultar produtos (themoviesdb)
+- Menu com navegação (Home e Sacola)
+- componente da sacola pequeno
+
+PAGINA INICIAL
+
+Listagem dos produtos
+cada produto possui:
+- imagem
+- descrição pequena
+- valor
+- botão de adicionar na sacola
+- *campo para quantidade
+
+PAGINA DE DESCRIÇÃO
+
+Detalhes do produto
+
+- Detalhes
+- valor
+- botão de adicionar na sacola
+- *campo para quantidade
+- imagem do produto
+- *imagens
+
+
+PAGINA DA SACOLA
+Lista com produtos na sacola
+- imagem
+- descrição pequena
+- valor
+- botão de remover da sacola
+- campo de quantidade
+
+
+Fazer os testes
